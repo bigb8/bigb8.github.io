@@ -2,4 +2,7 @@
 .DS_Store
 *.pyc
 *themes*
+*archetypes*
+*content*
+*archetypes*
 *quickstart*
