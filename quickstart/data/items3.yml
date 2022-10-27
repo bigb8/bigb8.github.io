@@ -1,0 +1,19 @@
+title : "Scientist"
+content: |
+  This is an <strong>Items</strong> element, and it's basically just a grid for organizing items of various types. You List of publications (<a href="htmls/publist">details</a>).
+style: "style1 medium onscroll-fade-in"
+items:
+  # feature item loop
+  - name : "Peer review publications"
+    content : "77 published, 8 in review"
+    style : "major fa-book-open"
+
+  # feature item loop
+  - name : "Stats"
+    content : "1402 citations, H: 21, i10:34"
+    style : "solid major fa-quote-right"
+
+  # feature item loop
+  - name : "PhD"
+    content : "Biology, 2017"
+    style : "solid major fa-bullhorn"

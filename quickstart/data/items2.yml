@@ -1,0 +1,20 @@
+title : "Engineer"
+content: "In Denmark, a master of science in engineering, is called a cand.polyt., a poly-technical candidate. I am one of them."
+style: "style1 medium onscroll-fade-in"
+items:
+
+  # feature item loop
+  - name : "Experience"
+    content : "Engineering Management. Early technology dev. Product dev."
+    style : "solid major fa-save"
+
+  # feature item loop
+  - name : "Training"
+    content : "M.Sc.Eng.: DTU, Aquatic Science
+    B.Sc.Eng.: DTU, Biomedical Engineering"
+    style : "major fa-gem"
+
+  # feature item loop
+  - name : "Solving problems"
+    content : "x Patents, y patent applications present"
+    style : "solid major fa-kiwi-bird"

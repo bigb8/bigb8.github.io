@@ -1,0 +1,12 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first2"
+title : "Biomedical & Automation"
+content: |
+  Much of my experience has been in the bio-medical fields. Where the continuing element is automation of measurements. From experimental automation in biology (UCPH), to measuring toilets for hospitals (Measurelet). At present, my primary activities are that I am leading CAMES Engineering, and CSO of Measurelet.
+
+
+button:
+  label: "LinkedIn"
+  link: "https://www.linkedin.com/in/mortenbosvendsen/"
+image: "images/biomedical-dalle.png"
