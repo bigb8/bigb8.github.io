@@ -2,8 +2,8 @@
 style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
 title : "Physiology & Simulation"
 content: |
-  This is also a <strong>Spotlight</strong> element, and it's here because this demo would look a bit empty with just one spotlight. Like all spotlights, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
+  My research is closely related to my engineering experience. Focuses on evidence generation of inventions and things I have developed. Topics include automatic skills assessment for physicians, tissue viability imaging, endoscopy performance assessment, biomecanics and biology.
 button:
-  label: "Learn More"
-  link: "#"
+  label: "Google Scholar"
+  link: "htmls/publist.html"
 image: "images/homeostasis-dalle.png"
