@@ -1,0 +1,14 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Morten Bo"
+subtitle: |
+  My online presence and projects
+content : |
+  One way of arriving here, is by scanning my business card. Below this section, you can find my projects, information etc. As well as other means of contacting me.
+
+  <a target="_blank" href="https://www.linkedin.com/in/mortenbosvendsen/" class="icon brands style2 fa-linkedin"><span class="label">LinkedIn</span></a>
+  <a target="_blank" href="mailto:mortenbo.public@pm.me" class="fav icon style2 fa-envelope"><span class="label">Email</span></a>
+button:
+  label : "mortenbo.public@pm.me"
+  link : "htmls/contact.html"
+image : "images/banner-dalle.png"
