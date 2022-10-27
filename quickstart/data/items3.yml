@@ -1,6 +1,6 @@
 title : "Scientist"
 content: |
-  This is an <strong>Items</strong> element, and it's basically just a grid for organizing items of various types. You List of publications (<a href="htmls/publist">details</a>).
+  List of publications (<a href="htmls/publist">details</a>).
 style: "style1 medium onscroll-fade-in"
 items:
   # feature item loop
