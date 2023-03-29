@@ -15,6 +15,6 @@ items:
     style : "major fa-gem"
 
   # feature item loop
-  - name : "Solving problems"
-    content : "x Patents, y patent applications present"
-    style : "solid major fa-kiwi-bird"
+  #- name : "Solving problems"
+  #  content : "x Patents, y patent applications present"
+  #  style : "solid major fa-kiwi-bird"
